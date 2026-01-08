@@ -91,12 +91,6 @@
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD600&center=true&vCenter=true&random=false&width=500&lines=365%2B+Days+of+Coding;1%2C000%2B+Commits;50%2B+Repositories;Infinite+Passion" />
 </div>
-<div align="center"> 
-    <!-- Stats Group -->
-    <img width="49%" height="195px" src="https://github-readme-stats-salesp07.vercel.app/api?username=iWeslax83/top-langs/?&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" />
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iWeslax83)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
  
 
 <!-- Streak Stats -->
