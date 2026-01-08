@@ -93,8 +93,8 @@
 </div>
 <div align="center"> 
     <!-- Stats Group -->
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RachidZahrani&show_icons=true&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Rachid's github stats" />
-    <img width="49%" height="195px" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=RachidZahrani&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" />
+    <img width="49%" height="195px" src="https://github-readme-stats-salesp07.vercel.app/api?username=iWeslax83/top-langs/?&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" />
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iWeslax83)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
  
