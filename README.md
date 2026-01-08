@@ -79,19 +79,6 @@
     <img width="100%" height="60" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&text=&fontSize=90" />
 </div>
 </div>
- 
-<!-- GitHub Stats Section -->
-<div align="center">
-   
-<h2  >
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
-    <span>GitHub Stats</span>
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
-</h2>
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD600&center=true&vCenter=true&random=false&width=500&lines=365%2B+Days+of+Coding;1%2C000%2B+Commits;50%2B+Repositories;Infinite+Passion" />
-</div>
- 
 
 <!-- Streak Stats -->
 <div align="center">
@@ -104,7 +91,7 @@
 <!-- Snake Animation -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iWeslax83/iWeslax83/output/github-contribution-grid-snake-dark.svg">
+        <img src="https://github.com/iWeslax83/iWeslax83/blob/output/github-snake-dark.svg" alt="snake gif">
     </picture>
 </div>
 
