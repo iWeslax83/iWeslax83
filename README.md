@@ -50,30 +50,9 @@
 
 <div align="center">
     <img width="100%" height="60" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&text=&fontSize=100" />
-</div>
-
-<div align="center">
-<h2>
-     <span>Let's Create Something Amazing Together!</span>
-</h2>
-</div>
+</div> 
 
 <br>
-
-<div align="center">
-    <!-- Static Buttons Without Animation -->
-    <a href="mailto:emirsakarya00@gmail.com" target="_blank">
-        <img alt="Email" width="200" height="45" src="https://img.shields.io/badge/Email Me-E34F26?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/example/" target="_blank">
-        <img alt="LinkedIn" width="200" height="45" src="https://img.shields.io/badge/ LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    &nbsp;
-    <a href="https://example.vercel.app" target="_blank">
-        <img alt="Portfolio" width="200" height="45" src="https://img.shields.io/badge/💻 Portfolio-9B4993?style=for-the-badge" />
-    </a>
-</div> 
 
 <div align="center">
     <img width="100%" height="60" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&text=&fontSize=90" />
