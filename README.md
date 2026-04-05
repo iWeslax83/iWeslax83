@@ -1,65 +1,100 @@
-<!-- Header Banner -->
-<img width="100%" height="250" src="https://capsule-render.vercel.app/api?type=waving&color=0:3494E6,100:EC6EAD&height=250&section=header&text=Emir%20Sakarya&desc=Software%20Developer&fontSize=50&fontAlign=50&fontAlignY=35&descSize=20&descAlign=50&descAlignY=55&animation=twinkling"/>
+<!-- HEADER -->
 
-<!-- Typing SVG -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3494E6,100:EC6EAD&height=200&section=header&text=Emir%20Sakarya&fontSize=45&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%7C%20Automation&descSize=18&descAlign=50&descAlignY=55&animation=twinkling"/>
+
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3494E6&center=true&vCenter=true&random=false&width=500&lines=Building+Digital+Solutions+%F0%9F%8C%9F;Full+Stack+Developer+%F0%9F%92%BB;Creative+Problem+Solver+%F0%9F%92%A1;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+
+# 👋 Hi, I'm Emir Sakarya
+
+💻 Full Stack Developer
+
 </div>
 
-<!-- Profile Views Counter with Custom Style -->
+---
+
+## 🚀 About Me
+
+* 🏫 Building **real-world systems**
+* ⚙️ Focused on **scalable full-stack applications**
+* 🧠 Interested in **AI, local models & automation**
+  
+---
+
+## 🎯 Goals
+
+* 🚀 Master **advanced full-stack architecture**
+* ⚡ Build **high-performance web apps**
+* 🌐 Improve **accessibility**
+* 🎨 Level up **UI/UX design**
+
+---
+
+## 🔮 Future Plans
+
+* 🔒 Deep dive into **web security**
+* 🛠️ Build **developer tools**
+* 🤝 Contribute to **open-source**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Core
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
+
+### 🧠 AI & Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+
+### ⚙️ Tools & Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge\&logo=debian)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge\&logo=fedora)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=iWeslax83&label=Visitors&color=brightgreen&style=flat-square" alt="Profile Views" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=iWeslax83&show_icons=true&hide_title=true&hide=stars,commits&show=prs_merged,prs_merged_percentage&border_radius=8" height="150"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iWeslax83&border_radius=8" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iWeslax83&layout=compact&border_radius=8" height="150"/>
+
 </div>
 
-<!-- About Me Section -->
-<h2>
-    <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px">
-    <span>About Me</span>
-</h2>
+---
 
-<img align="right" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px" alt="Tech Stack Animation">
+## 🐍 Contribution Snake
 
-### 🚀 Current Focus
-- Mastering **SpringBoot**, **Docker**, & **AWS**
-- Crafting elegant solutions with **Node.js**, **React**, & **Laravel**
-
-### ⚡ Quick Facts
-- 🎯 Goal-driven developer passionate about clean code
-- 🌱 Always learning and evolving
-- ☕ Powered by coffee and curiosity
-
-<br>
-
-<!-- Tech Stack Section with Animations -->
-<h2>
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px">
-    <span>Tech Stack</span>
-</h2>
-
-<p align="center">
-    <!-- Frontend --> 
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,tailwind,nodejs,express,java,mysql,c,csharp" />
-    <br>  
-    <!-- Deployment --> 
-    <img src="https://skillicons.dev/icons?i=mongodb,sqlite,firebase,docker,git,github,gitlab,vscode,figma,linux" />
-</p>
-<br/>
-<!-- Streak Stats -->
 <div align="center">
-    <br>
-    <a href="https://git.io/streak-stats">
-<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=iWeslax83&count_private=true&theme=react&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
-    </a>
-</div>
- 
-<!-- Snake Animation -->
-<div align="center">
-    <picture>
-        <img src="https://github.com/iWeslax83/iWeslax83/blob/output/github-snake-dark.svg" alt="snake gif">
-    </picture>
+<img src="https://github.com/iWeslax83/iWeslax83/blob/output/github-snake-dark.svg"/>
 </div>
 
-<!-- Footer -->
+---
+
+## 📫 Contact Me
+
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC6EAD,100:3494E6&height=120&section=footer"/>
+
+[![Gmail](https://img.shields.io/badge/Gmail-ec493c?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:emirsakarya00@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a78b5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/emirsakarya/)
+
 </div>
+
+---
+
+<!-- FOOTER -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC6EAD,100:3494E6&height=120&section=footer"/>
