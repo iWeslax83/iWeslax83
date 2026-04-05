@@ -57,7 +57,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=iWeslax83&theme=dark&show_icons=true&hide_title=true&hide=stars,prs_merged,prs_merged_percentage&show=commits,&border_radius=8" height="250"/>
-<img src="https://g&hide_border=true&mode=weeklyithub-readme-streak-stats.herokuapp.com/?user=iWeslax83&hide_border=true&mode=weekly&theme=dark&border_radius=8" height="250"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iWeslax83&hide_border=true&mode=weekly&theme=dark&border_radius=8" height="250"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iWeslax83&theme=dark&layout=compact&border_radius=8" height="250"/>
 
 </div>
