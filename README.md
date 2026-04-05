@@ -1,16 +1,6 @@
 <!-- HEADER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3494E6,100:EC6EAD&height=200&section=header&text=Emir%20Sakarya&fontSize=45&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%7C%20Automation&descSize=18&descAlign=50&descAlignY=55&animation=twinkling"/>
-
-<div align="center">
-
-# 👋 Hi, I'm Emir Sakarya
-
-💻 Full Stack Developer
-
-</div>
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3494E6,100:EC6EAD&height=200&section=header&text=Emir%20Sakarya&fontSize=45&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Automation&descSize=18&descAlign=50&descAlignY=55&animation=twinkling"/>
 
 ## 🚀 About Me
 
@@ -66,11 +56,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iWeslax83&show_icons=true&hide_title=true&hide=stars,commits&show=prs_merged,prs_merged_percentage&border_radius=8" height="150"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iWeslax83&border_radius=8" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iWeslax83&layout=compact&border_radius=8" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=iWeslax83&theme=dark&show_icons=true&hide_title=true&hide=stars,prs_merged,prs_merged_percentage&show=commits,&border_radius=8" height="250"/>
+<img src="https://g&hide_border=true&mode=weeklyithub-readme-streak-stats.herokuapp.com/?user=iWeslax83&hide_border=true&mode=weekly&theme=dark&border_radius=8" height="250"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iWeslax83&theme=dark&layout=compact&border_radius=8" height="250"/>
 
 </div>
 
@@ -86,10 +74,10 @@
 
 ## 📫 Contact Me
 
-<div align="center">
+<div align="left">
 
 [![Gmail](https://img.shields.io/badge/Gmail-ec493c?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:emirsakarya00@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a78b5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/emirsakarya/)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a78b5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/emirsakarya/) -->
 
 </div>
 
