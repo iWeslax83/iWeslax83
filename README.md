@@ -38,27 +38,12 @@
 
 <p align="center">
     <!-- Frontend --> 
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,bootstrap,tailwind,jquery,nodejs,express,laravel,java,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,tailwind,nodejs,express,java,mysql,c,csharp" />
     <br>  
     <!-- Deployment --> 
-    <img src="https://skillicons.dev/icons?i=mongodb,sqlite,firebase,docker,git,github,gitlab,vscode,figma,jest,linux" />
+    <img src="https://skillicons.dev/icons?i=mongodb,sqlite,firebase,docker,git,github,gitlab,vscode,figma,linux" />
 </p>
-
 <br/>
- 
- <!-- Connect Section -->
-
-<div align="center">
-    <img width="100%" height="60" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&text=&fontSize=100" />
-</div> 
-
-<br>
-
-<div align="center">
-    <img width="100%" height="60" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&text=&fontSize=90" />
-</div>
-</div>
-
 <!-- Streak Stats -->
 <div align="center">
     <br>
