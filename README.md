@@ -80,9 +80,5 @@
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a78b5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/emirsakarya/) -->
 
 </div>
-
----
-
 <!-- FOOTER -->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC6EAD,100:3494E6&height=120&section=footer"/>
