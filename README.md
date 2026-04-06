@@ -77,7 +77,7 @@
 <div align="left">
 
 [![Gmail](https://img.shields.io/badge/Gmail-ec493c?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:emirsakarya00@gmail.com)
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a78b5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/emirsakarya/) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a78b5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/emirsakarya/)
 
 </div>
 <!-- FOOTER -->
