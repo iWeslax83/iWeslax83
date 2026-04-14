@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-* 🏫 Building **real-world systems**
+* 🏫 Building **real world systems**
 * ⚙️ Focused on **scalable full-stack applications**
 * 🧠 Interested in **AI, local models & automation**
   
